@@ -18,3 +18,12 @@ ProcesadorCadenas
 9.  **Deduplicación de Palabras:** Procesa una frase, filtra palabras cortas, las convierte a minúsculas y elimina repetidas.
 10. **El Tope de Frecuencias:** Limita los valores de un mapa de frecuencias a un máximo N usando `replaceAll`.
 
+Instrucciones:
+1- Clona el repositorio: ```bash
+   git clone [https://github.com/DiegoDario-cpu/tarea17-4-26.git](https://github.com/DiegoDario-cpu/tarea17-4-26.git)
+
+2- Entra en la carpeta del proyecto: cd tarea17-4-26
+
+3- Compila los archivos: javac *.java
+
+4- ejecuta la clase Main: java Main
